@@ -1,0 +1,38 @@
+{
+  "name": "Firdaws Indonesia",
+  "short_name": "Firdaws.id",
+  "start_url": "https://firdaws.id/",
+  "display": "standalone",
+  "background_color": "#fff",
+  "theme_color": "#C51162",
+  "description": "Mengenal islam lebih dekat sesuai al-Qur'an dan as-Sunnah dengan pemahaman Salaful Ummah.",
+  "icons": [{
+    "src": "https://1.bp.blogspot.com/-qVaHK2xrLno/XhFfR6eKQvI/AAAAAAAAAM0/UEqR-eosZMwbr279SkOYjWiBzAsp8QzAACLcBGAsYHQ/s1600/170fd1b0df7e1f82fa1e417102a9ae77.ico.png",
+    "sizes": "48x48",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-qVaHK2xrLno/XhFfR6eKQvI/AAAAAAAAAM0/UEqR-eosZMwbr279SkOYjWiBzAsp8QzAACLcBGAsYHQ/s1600/170fd1b0df7e1f82fa1e417102a9ae77.ico.png",
+    "sizes": "72x72",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-qVaHK2xrLno/XhFfR6eKQvI/AAAAAAAAAM0/UEqR-eosZMwbr279SkOYjWiBzAsp8QzAACLcBGAsYHQ/s1600/170fd1b0df7e1f82fa1e417102a9ae77.ico.png",
+    "sizes": "96x96",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-qVaHK2xrLno/XhFfR6eKQvI/AAAAAAAAAM0/UEqR-eosZMwbr279SkOYjWiBzAsp8QzAACLcBGAsYHQ/s1600/170fd1b0df7e1f82fa1e417102a9ae77.ico.png",
+    "sizes": "144x144",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-qVaHK2xrLno/XhFfR6eKQvI/AAAAAAAAAM0/UEqR-eosZMwbr279SkOYjWiBzAsp8QzAACLcBGAsYHQ/s1600/170fd1b0df7e1f82fa1e417102a9ae77.ico.png",
+    "sizes": "168x168",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-qVaHK2xrLno/XhFfR6eKQvI/AAAAAAAAAM0/UEqR-eosZMwbr279SkOYjWiBzAsp8QzAACLcBGAsYHQ/s1600/170fd1b0df7e1f82fa1e417102a9ae77.ico.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-qVaHK2xrLno/XhFfR6eKQvI/AAAAAAAAAM0/UEqR-eosZMwbr279SkOYjWiBzAsp8QzAACLcBGAsYHQ/s1600/170fd1b0df7e1f82fa1e417102a9ae77.ico.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }]
+}
